@@ -46,14 +46,14 @@ The Excel file consists of three worksheets:
 ### Step 2: Refresh Input Area
 - After any changes to the database structure, click "Refresh Input Area" to update column headers.
 
-### Step 2: Data Entry and Validation
+### Step 3: Data Entry and Validation
 - Fill in sales data (rows 2-20). Required fields such as dates and numeric fields are validated automatically.
 - Correct any errors indicated by prompts before submission.
 
-### Step 3: Batch Submission
+### Step 4: Batch Submission
 - After filling data, click "Batch Add" to transfer entries to the database.
 
-### Step 4: Chart Visualization
+### Step 5: Chart Visualization
 - On the "Charts" sheet, select desired columns and chart type, then click the "Generate Chart" button to visualize your data.
 
 
